@@ -2,7 +2,7 @@
 name: Functional Bug Report
 about: A bug that hurts the functionality of the app
 title: ''
-labels: BossHero, Functional
+labels: BossHero, Bug, Functional
 assignees: ''
 
 ---
