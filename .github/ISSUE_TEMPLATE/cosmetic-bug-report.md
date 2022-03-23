@@ -2,7 +2,7 @@
 name: Cosmetic Bug Report
 about: A visual bug
 title: ''
-labels: BossHero, Bug, Cosmetic
+labels: Bug, Cosmetic, RestarauntPeoples
 assignees: ''
 
 ---
