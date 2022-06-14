@@ -1,8 +1,8 @@
 ---
-name: Cosmetic Bug Report BossHero
-about: Create a report to help us improve
+name: Functional Bug Report Ignite360
+about: A bug that hurts the functionality of the app
 title: ''
-labels: BossHero, Bug, Cosmetic, GoShops
+labels: Bug, Functional, Ignite360
 assignees: ''
 
 ---

@@ -1,8 +1,8 @@
 ---
-name: Cosmetic Bug Report BossHero
-about: Create a report to help us improve
+name: Cosmetic Bug Report Ignite360
+about: A visual bug
 title: ''
-labels: BossHero, Bug, Cosmetic, GoShops
+labels: Bug, Cosmetic, Ignite360
 assignees: ''
 
 ---
