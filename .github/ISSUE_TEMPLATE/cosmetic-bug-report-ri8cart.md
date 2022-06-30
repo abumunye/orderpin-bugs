@@ -1,8 +1,8 @@
 ---
-name: Cosmetic Bug Report BossHero
+name: Cosmetic Bug Report Ri8Cart
 about: Create a report to help us improve
 title: ''
-labels: BossHero, Bug, Cosmetic, Functional, GoShops, Other Website, Ri8Cart
+labels: Bug, Cosmetic, Ri8Cart
 assignees: ''
 
 ---
