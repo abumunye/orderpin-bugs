@@ -1,8 +1,8 @@
 ---
-name: Cosmetic Bug Report BossHero
+name: Functional Bug Report ExtraGlove
 about: Create a report to help us improve
 title: ''
-labels: BossHero, Bug, Cosmetic, Functional, GoShops, Other Website
+labels: Bug, ExtraGlove, Functional
 assignees: ''
 
 ---
