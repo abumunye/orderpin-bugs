@@ -2,7 +2,7 @@
 name: Functional Bug Report Ri8Cart
 about: Create a report to help us improve
 title: ''
-labels: BossHero, Bug, Functional, Ri8Cart
+labels: Bug, Functional, Ri8Cart
 assignees: ''
 
 ---
