@@ -1,8 +1,8 @@
 ---
-name: Functional Bug Report BossHero
+name: Cosmetic Bug Report ChefsBucket
 about: Create a report to help us improve
 title: ''
-labels: Bug, ChefsBucket, Functional
+labels: Bug, ChefsBucket, Cosmetic
 assignees: ''
 
 ---
